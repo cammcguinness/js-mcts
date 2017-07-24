@@ -1,0 +1,27 @@
+{
+  "name": "js-mcts",
+  "version": "0.0.1",
+  "description": "A javascript implementation of Monte Carlo Tree Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cammcguinness/js-mcts.git"
+  },
+  "keywords": [
+    "javascript",
+    "monte",
+    "carlo",
+    "tree",
+    "search",
+    "mcts"
+  ],
+  "author": "Cameron McGuinness",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cammcguinness/js-mcts/issues"
+  },
+  "homepage": "https://github.com/cammcguinness/js-mcts#readme"
+}
